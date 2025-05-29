@@ -37,7 +37,7 @@ export default function App() {
         />
 
         {/* Descrição do produto */}
-        <Text style={styles.productDescription}>Chocolate meio amargo</Text>
+        <Text style={styles.productDescription}>Chocolate Amaro</Text>
         <Text style={styles.productBrand}>Lacta Amaro - 40% cacau</Text>
 
         {/* Divisor */}
